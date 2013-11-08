@@ -49,7 +49,7 @@ var winningPercent = (wins + loss + draw)/gamesPlayed;
 console.log(winningPercent); console.log(teamName);
 
 
-
+//had to console.log the winningPercent and teamName because those are the variables that are being displayed
 
 
 
