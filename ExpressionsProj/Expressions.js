@@ -39,6 +39,10 @@ var draw = (0);
 var gamesPlayed = 9;
 //to find the winning percentage you have to add wins, losses, and draws.
 //after that divide by the number of games that have been played.
+//make sure that if I add variables they are in ()
+// to tell the computer to do the addition before subtraction.
+
+
 
 var winningPercent = (wins + loss + draw)/gamesPlayed;
 
