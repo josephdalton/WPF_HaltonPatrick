@@ -6,7 +6,7 @@
 
 var x;
 var average = prompt('Is the class failing?')
-if (average == no){
+if (average == "no"){
 x=('Correct');}
 
 else x = (Incorrect);
