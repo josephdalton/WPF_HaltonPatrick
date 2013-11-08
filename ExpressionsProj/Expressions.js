@@ -25,7 +25,7 @@ var winP = 'Winning Percentage'
 var teamName = state + ' ' + team + ' ' + winP;
 
 
-
+//this displays what information is going to be stored
 
 
 var winningPercent;
