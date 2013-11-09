@@ -5,19 +5,19 @@
 
 
 var x;
-var average = prompt('Is the class failing?')
-if (average == "no"){
-x=('Correct');}
+var average = prompt('What is the class average?')
+if (average == 'no'){
+x=('Correct');
 
-else x = (Incorrect);
-console.log(x);
+}else x = ("Incorrect")
+    console.log(x);
 
-
+//
 //var subj = 'Math';
 //var exam = 'Test';
 //var grad = 'Scores';
 //var FullName = subj +' '+ exam + ' ' + grad;
-//console.log(FullName);
+//
 //
 //
 //var studentTest1;
