@@ -6,7 +6,7 @@
 
 var x;
 var average = prompt('What is the class average?')
-if (average == 'no'){
+if (average ==86){
 x=('Correct');
 
 }else x = ("Incorrect")
