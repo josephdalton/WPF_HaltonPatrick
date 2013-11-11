@@ -12,11 +12,11 @@ var average = prompt('What is the class average?')
 if (average ==86){
     x='Correct';
 
-}else x = 'Incorrect';
-
+}  else {x = 'Incorrect';
+}
 console.log(x);
 
-
+//instead of logging out 'average', i logged out x to display the string instead of the number
 var subj = 'Math';
 var exam = 'Test';
 var grad = 'Scores';
