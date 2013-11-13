@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExpressionsCont1.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ExpressionsCont1.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expression_Wacky/ExpressionsCont1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.49001816" vertical-offset="0" max-vertical-offset="765">
+            <state line="17" column="0" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Expressions1.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions_Industry/Expressions1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.36245352" vertical-offset="0" max-vertical-offset="1260">
               <folding />
             </state>
           </provider>
@@ -52,6 +61,7 @@
       <list>
         <option value="$PROJECT_DIR$/conditionalsPersonal.js" />
         <option value="$PROJECT_DIR$/Expression_Wacky/ExpressionsCont1.js" />
+        <option value="$PROJECT_DIR$/Expressions_Industry/Expressions1.js" />
       </list>
     </option>
   </component>
@@ -212,7 +222,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Expression_Wacky/ExpressionsCont1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.49001816" vertical-offset="0" max-vertical-offset="765">
+        <state line="17" column="0" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Industry/Expressions1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.36245352" vertical-offset="0" max-vertical-offset="1260">
           <folding />
         </state>
       </provider>

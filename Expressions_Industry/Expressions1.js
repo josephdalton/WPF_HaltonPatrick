@@ -2,7 +2,7 @@
  * Created by patrickhalton on 11/8/13.
  */
 //student test scores on math test(class average)
-//3294283
+/Expressions_Industry
 
 var x;
 var average = prompt('What is the class average?')
