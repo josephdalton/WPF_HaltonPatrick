@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Expressions.iml" filepath="$PROJECT_DIR$/.idea/Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WPF_HaltonPatrick.iml" filepath="$PROJECT_DIR$/.idea/WPF_HaltonPatrick.iml" />
     </modules>
   </component>
 </project>

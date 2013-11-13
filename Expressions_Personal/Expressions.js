@@ -5,7 +5,7 @@
 //Expressions Project New york Jets winning percentage
 //expressions
 
-    
+
 var x;
 var answer = prompt('What is the New York Jets Winning Percentage?');
 
