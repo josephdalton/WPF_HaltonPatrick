@@ -1,6 +1,7 @@
 /**
  * Created by patrickhalton on 11/11/13.
  */
+//Wacky
 
 var items = prompt('How many items on the list?');
 
