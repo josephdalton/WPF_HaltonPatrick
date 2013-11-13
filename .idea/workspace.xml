@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Expressions1.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Expressions1.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions_Industry/Expressions1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.36245352" vertical-offset="0" max-vertical-offset="1260">
+            <state line="13" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Expressions.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions_Personal/Expressions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.40834847" vertical-offset="0" max-vertical-offset="1080">
               <folding />
             </state>
           </provider>
@@ -62,6 +71,7 @@
         <option value="$PROJECT_DIR$/conditionalsPersonal.js" />
         <option value="$PROJECT_DIR$/Expression_Wacky/ExpressionsCont1.js" />
         <option value="$PROJECT_DIR$/Expressions_Industry/Expressions1.js" />
+        <option value="$PROJECT_DIR$/Expressions_Personal/Expressions.js" />
       </list>
     </option>
   </component>
@@ -186,7 +196,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="75" width="1155" height="699" extended-state="0" />
+    <frame x="107" y="75" width="1155" height="699" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -229,7 +239,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Industry/Expressions1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.36245352" vertical-offset="0" max-vertical-offset="1260">
+        <state line="13" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1260">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Personal/Expressions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.40834847" vertical-offset="0" max-vertical-offset="1080">
           <folding />
         </state>
       </provider>
