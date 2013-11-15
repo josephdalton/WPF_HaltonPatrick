@@ -5,7 +5,8 @@
 //var colors = prompt('How many colors are on your shirt?')//first prompted value is asking the user how many colors areon their shirt
 //var MyArray = [];//Declaring the expression is an array
 //for (i=0; i<colors; i++);//instead of writing all the number in the array, this for loop puts as many colors in the array that the user chooses
-//
+// LINE 7 HAS SOME ISSUES WITH IT. YOU HAVE AN ';' AND NO '{' OR '}' SYMBOLS.
+
 //MyArray[i] = prompt('What colors?');//states that the array i created is prompted
 //console.log(MyArray);//logging out the array
 //
@@ -25,7 +26,11 @@
 //
 //}
 //
-//else R = 'Brush More'//else statement says if the user puts less than 2 it tells the user to "brush more"
+//else 
+//  {  //MISSING
+
+//R = 'Brush More'//else statement says if the user puts less than 2 it tells the user to "brush more"
+//} //MISSING
 //
 //console.log(R);//logging out the variable 'R'
 //
@@ -90,6 +95,7 @@
 //var ans = (q / w%2);//division with remainder of 2
 //console.log(ans);
 
+//THIS PROBLEM IS CORRECT, BUT I AM NOT SURE IF YOU UNDERSTAND IT. 
 
 
 
